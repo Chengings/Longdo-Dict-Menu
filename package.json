@@ -3,5 +3,6 @@
     "author": "Chengings", 
     "version": "2.0", 
     "fullName": "Longdo Dict Menu", 
-    "id": "jid0-bLBXGTyPACqmESWjZIWHfcCUaas@jetpack"
+    "id": "jid0-bLBXGTyPACqmESWjZIWHfcCUaas@jetpack",
+    "permissions": {"private-browsing": true}
 }
