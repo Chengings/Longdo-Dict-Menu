@@ -1,8 +1,11 @@
 {
-    "name": "longdo-dict-menu", 
-    "author": "Chengings", 
-    "version": "2.1", 
-    "fullName": "Longdo Dict Menu", 
-    "id": "jid0-bLBXGTyPACqmESWjZIWHfcCUaas@jetpack",
-    "permissions": {"private-browsing": true}
+  "name": "longdo-dict-menu",
+  "author": "Chengings",
+  "version": "2.1.2",
+  "title": "Longdo Dict Menu",
+  "id": "jid0-bLBXGTyPACqmESWjZIWHfcCUaas@jetpack",
+  "permissions": {
+    "private-browsing": true
+  },
+  "main": "lib/main.js"
 }
