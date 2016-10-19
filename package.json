@@ -1,11 +1,12 @@
 {
   "name": "longdo-dict-menu",
   "author": "Chengings",
-  "version": "2.1.3",
+  "version": "2.2.0",
   "title": "Longdo Dict Menu",
   "id": "jid0-bLBXGTyPACqmESWjZIWHfcCUaas@jetpack",
   "permissions": {
-    "private-browsing": true
+    "private-browsing": true,
+    "multiprocess": true
   },
   "main": "lib/main.js"
 }
