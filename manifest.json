@@ -3,6 +3,12 @@
 	"name": "Longdo Dict Menu",
 	"version": "3.0.0",
 	"default_locale": "th",
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "jid0-bLBXGTyPACqmESWjZIWHfcCUaas@jetpack",
+			"strict_min_version": "57.0"
+		}
+	},
 	"permissions": [
 		"menus"
 	],
