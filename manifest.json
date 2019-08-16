@@ -14,5 +14,9 @@
 	"icons": {
 		"48": "images/longdo-icon.svg",
 		"96": "images/longdo-icon.svg"
+	},
+	"developer": {
+		"name": "Chengings",
+		"url": "https://github.com/Chengings/Longdo-Dict-Menu"
 	}
 }
